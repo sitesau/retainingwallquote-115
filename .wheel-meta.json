@@ -1,0 +1,22 @@
+{
+  "wheel_id": 804,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-115",
+  "project": "retaining-wall-quotes-how-to-choose-a8cf38a55b7a720327d347dc1f3",
+  "parent_t1_ref": "retainingwallquote-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes how to choose",
+  "intended_url": "https://sitesau.github.io/retainingwallquote-115/",
+  "tier": "T2",
+  "writeback_nonce": "2951d74ebbc29b5c",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-quotes-cost-guide-4b956a9ddf7fc2d73a5dc54e6eb646/",
+      "anchor": "Retaining Wall Quotes Cost Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
